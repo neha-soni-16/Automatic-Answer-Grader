@@ -1,0 +1,30 @@
+Python: 3.8.10 (default, Sep 28 2021, 16:10:42) 
+[GCC 9.3.0]
+Tensorflow: 2.5.0
+Init with stored values from ./snapshot-18
+Recognized: "Sikkim"
+Probability: 0.5377427339553833
+Python: 3.8.10 (default, Sep 28 2021, 16:10:42) 
+[GCC 9.3.0]
+Tensorflow: 2.5.0
+Init with stored values from ./snapshot-18
+Recognized: "neptune"
+Probability: 0.9112123250961304
+Python: 3.8.10 (default, Sep 28 2021, 16:10:42) 
+[GCC 9.3.0]
+Tensorflow: 2.5.0
+Init with stored values from ./snapshot-18
+Recognized: "tokyo"
+Probability: 0.47247785329818726
+Python: 3.8.10 (default, Sep 28 2021, 16:10:42) 
+[GCC 9.3.0]
+Tensorflow: 2.5.0
+Init with stored values from ./snapshot-18
+Recognized: "hyderabad"
+Probability: 0.4216621518135071
+Python: 3.8.10 (default, Sep 28 2021, 16:10:42) 
+[GCC 9.3.0]
+Tensorflow: 2.5.0
+Init with stored values from ./snapshot-18
+Recognized: "atlantic"
+Probability: 0.3301162123680115
